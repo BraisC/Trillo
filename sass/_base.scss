@@ -58,4 +58,5 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 100vh;
+  border: 3px solid black; //O el margin de content crea scroll en la página por margin collapse
 }
